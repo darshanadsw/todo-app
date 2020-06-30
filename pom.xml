@@ -21,7 +21,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
         <!-- Spring -->
         <spring-framework.version>5.0.3.RELEASE</spring-framework.version>
         <!-- JPA -->
-        <spring-data-jpa>1.11.4.RELEASE</spring-data-jpa>
+        <spring-data-jpa>1.11.23.RELEASE</spring-data-jpa>
         <hibernate-jpa.version>1.0.0.Final</hibernate-jpa.version>
         <hibernate.version>4.3.11.Final</hibernate.version>
         <!-- Drivers -->
